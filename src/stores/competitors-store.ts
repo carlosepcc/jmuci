@@ -87,7 +87,7 @@ export const rawCompetitors: Competitor[] = [
     color: "indigo",
     emoji: "🐲",
     //logo: "https://jdeportivos.uci.cu/wp-content/uploads/2022/05/fac3.png",
-    logo: "src/assets/fac3.webp",
+    logo: "@public/fac3.webp",
     gold: 15,
     silver: 23,
     bronze: 16,
